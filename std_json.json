@@ -1,0 +1,27 @@
+{
+    "data":{
+        "offers": [
+            {"title": "Nivea deo spray", "description": "Nivea products are german made, high quality and easy one the skin", "image": "https://maestashop.com/media/catalog/product/cache/b13d5f4ef795dd0f46f45353e7e021a8/4/0/4005900034816.png", "old_price": 90, "new_price": 60, "discount": 30, "short_description": "2+1"},
+            {"title": "Nivea deo spray", "description": "Nivea products are german made, high quality and easy one the skin", "image": "https://maestashop.com/media/catalog/product/cache/b13d5f4ef795dd0f46f45353e7e021a8/4/0/4005900034816.png", "old_price": 90, "new_price": 60, "discount": 30, "short_description": "2+1"},
+            {"title": "Nivea deo spray", "description": "Nivea products are german made, high quality and easy one the skin", "image": "https://maestashop.com/media/catalog/product/cache/b13d5f4ef795dd0f46f45353e7e021a8/4/0/4005900034816.png", "old_price": 90, "new_price": 60, "discount": 30, "short_description": "2+1"},
+            {"title": "Nivea deo spray", "description": "Nivea products are german made, high quality and easy one the skin", "image": "https://maestashop.com/media/catalog/product/cache/b13d5f4ef795dd0f46f45353e7e021a8/4/0/4005900034816.png", "old_price": 90, "new_price": 60, "discount": 30, "short_description": "2+1"},
+            {"title": "Nivea deo spray", "description": "Nivea products are german made, high quality and easy one the skin", "image": "https://maestashop.com/media/catalog/product/cache/b13d5f4ef795dd0f46f45353e7e021a8/4/0/4005900034816.png", "old_price": 90, "new_price": 60, "discount": 30, "short_description": "2+1"},
+            {"title": "Nivea deo spray", "description": "Nivea products are german made, high quality and easy one the skin", "image": "https://maestashop.com/media/catalog/product/cache/b13d5f4ef795dd0f46f45353e7e021a8/4/0/4005900034816.png", "old_price": 90, "new_price": 60, "discount": 30, "short_description": "2+1"},
+            {"title": "Nivea deo spray", "description": "Nivea products are german made, high quality and easy one the skin", "image": "https://maestashop.com/media/catalog/product/cache/b13d5f4ef795dd0f46f45353e7e021a8/4/0/4005900034816.png", "old_price": 90, "new_price": 60, "discount": 30, "short_description": "2+1"},
+            {"title": "Nivea deo spray", "description": "Nivea products are german made, high quality and easy one the skin", "image": "https://maestashop.com/media/catalog/product/cache/b13d5f4ef795dd0f46f45353e7e021a8/4/0/4005900034816.png", "old_price": 90, "new_price": 60, "discount": 30, "short_description": "2+1"},
+            {"title": "Nivea deo spray", "description": "Nivea products are german made, high quality and easy one the skin", "image": "https://maestashop.com/media/catalog/product/cache/b13d5f4ef795dd0f46f45353e7e021a8/4/0/4005900034816.png", "old_price": 90, "new_price": 60, "discount": 30, "short_description": "2+1"},
+            {"title": "Nivea deo spray", "description": "Nivea products are german made, high quality and easy one the skin", "image": "https://maestashop.com/media/catalog/product/cache/b13d5f4ef795dd0f46f45353e7e021a8/4/0/4005900034816.png", "old_price": 90, "new_price": 60, "discount": 30, "short_description": "2+1"},
+            {"title": "Nivea deo spray", "description": "Nivea products are german made, high quality and easy one the skin", "image": "https://maestashop.com/media/catalog/product/cache/b13d5f4ef795dd0f46f45353e7e021a8/4/0/4005900034816.png", "old_price": 90, "new_price": 60, "discount": 30, "short_description": "2+1"},
+            {"title": "Nivea deo spray", "description": "Nivea products are german made, high quality and easy one the skin", "image": "https://maestashop.com/media/catalog/product/cache/b13d5f4ef795dd0f46f45353e7e021a8/4/0/4005900034816.png", "old_price": 90, "new_price": 60, "discount": 30, "short_description": "2+1"},
+            {"title": "Nivea deo spray", "description": "Nivea products are german made, high quality and easy one the skin", "image": "https://maestashop.com/media/catalog/product/cache/b13d5f4ef795dd0f46f45353e7e021a8/4/0/4005900034816.png", "old_price": 90, "new_price": 60, "discount": 30, "short_description": "2+1"},
+            {"title": "Nivea deo spray", "description": "Nivea products are german made, high quality and easy one the skin", "image": "https://maestashop.com/media/catalog/product/cache/b13d5f4ef795dd0f46f45353e7e021a8/4/0/4005900034816.png", "old_price": 90, "new_price": 60, "discount": 30, "short_description": "2+1"},
+            {"title": "Nivea deo spray", "description": "Nivea products are german made, high quality and easy one the skin", "image": "https://maestashop.com/media/catalog/product/cache/b13d5f4ef795dd0f46f45353e7e021a8/4/0/4005900034816.png", "old_price": 90, "new_price": 60, "discount": 30, "short_description": "2+1"}
+        ],
+        "meta":{
+            "month": 6,
+            "year": 2020,
+            "active_date": "20-6-2020",
+            "inactive_data": "10-7-2020"
+        }
+    }
+}
